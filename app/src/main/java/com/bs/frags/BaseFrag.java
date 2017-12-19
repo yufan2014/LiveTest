@@ -63,7 +63,7 @@ public abstract class BaseFrag extends Fragment implements OnClickListener{
 	 * */
 	public void initListener() {
 	}
-	
+
 	@Override
 	public void onClick(View v) {
 	}
